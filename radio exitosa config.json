@@ -1,0 +1,78 @@
+{
+  "radio": [
+    {
+      "radio_name": "Radio Exitosa",
+      "radio_genre": "La Voz De Los Que No Tienen Voz",
+      "radio_url": "https://stream-141.zeno.fm/csy4vzackf9uv?zs=khHpy0mxQES-2IkyhGEU-A",
+      "radio_image_url": "https://static.mytuner.mobi/media/tvos_radios/tq4NUPk2pm.jpeg",
+      "background_image_url": "https://i.pinimg.com/originals/9b/2f/cf/9b2fcfc4838dbcbe8b97e2e038789e6b.gif",
+	  "blur_radio_background": "false",
+      "song_metadata": "false",
+      "image_album_art": "true",
+	  "image_album_art_dynamic_background": "false",
+	  "auto_play": "false"
+    }
+  ],
+  "settings": [
+    {
+      "app_status": "1",
+      "privacy_policy_url": "https://sites.google.com/view/privacy--22/p%C3%A1gina-principal",
+	  "more_apps_url": "https://play.google.com/store/apps/dev?id=4811777860613965414",
+	  "redirect_url": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": "1",
+      "ad_type": "admob",
+      "backup_ads": "none",
+      "admob_publisher_id": "pub-3251438469471899",
+      "admob_banner_unit_id": "ca-app-pub-3251438469471899/2565344232",
+      "admob_interstitial_unit_id": "ca-app-pub-3251438469471899/3463315325",
+      "admob_native_unit_id": "0",
+      "admob_app_open_ad_unit_id": "ca-app-pub-3251438469471899/2440268066",
+      "ad_manager_banner_unit_id": "0",
+      "ad_manager_interstitial_unit_id": "0",
+      "ad_manager_native_unit_id": "0",
+      "ad_manager_app_open_ad_unit_id": "0",
+      "fan_banner_unit_id": "0",
+      "fan_interstitial_unit_id": "0",
+      "fan_native_unit_id": "0",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "0",
+      "unity_interstitial_placement_id": "0",
+      "applovin_banner_ad_unit_id": "0",
+      "applovin_interstitial_ad_unit_id": "0",
+      "applovin_native_ad_manual_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_placement_name": "0",
+      "ironsource_interstitial_placement_name": "0",
+      "interstitial_ad_interval": 1
+    }
+  ],
+  "socials": [
+    {
+      "social_name": "Website",
+      "social_icon": "https://i.ibb.co/mtBqztD/globe.png",
+      "social_url": "https://www.exitosanoticias.pe/"
+    },
+    {
+      "social_name": "Facebook",
+      "social_icon": "https://i.ibb.co/hfjH7LL/facebook.png",
+      "social_url": "https://www.facebook.com/Exitosanoticias/"
+    },
+    {
+      "social_name": "Twitter",
+      "social_icon": "https://i.ibb.co/dDZYx1P/twitter.png",
+      "social_url": "https://twitter.com/exitosape"
+    },
+    {
+      "social_name": "Instagram",
+      "social_icon": "https://i.ibb.co/82ykbnp/instagram.png",
+      "social_url": "https://www.instagram.com/exitosape"
+    }
+  ]
+}
