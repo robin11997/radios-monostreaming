@@ -1,0 +1,78 @@
+{
+  "radio": [
+    {
+      "radio_name": "Rpp Noticias",
+      "radio_genre": "Noticias",
+      "radio_url": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9?aid=5faaeb72f92d7b07dfe10181&pid=lFG5yEtzsWvKBodGDmqohbF4iALCmwOM&sid=IWWVqjcXklHtJM0TCr3F2n7lfXp5rphQ&uid=3UAxsgTBS2MYahhRqlTNRrrXDN7MJsGH&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1653162178035&ot=MfsFpHc3blqIglfDvCY-4w&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Fmdstrm.com%2F",
+      "radio_image_url": "https://cdn.webrad.io/images/logos/radios-com-pe/rpp.png",
+      "background_image_url": "https://i.pinimg.com/originals/9b/2f/cf/9b2fcfc4838dbcbe8b97e2e038789e6b.gif",
+	  "blur_radio_background": "false",
+      "song_metadata": "false",
+      "image_album_art": "true",
+      "image_album_art_dynamic_background": "false",
+	  "auto_play": "false"
+    }
+  ],
+  "settings": [
+    {
+      "app_status": "1",
+      "privacy_policy_url": "https://sites.google.com/view/privacy--22/p%C3%A1gina-principal",
+	  "more_apps_url": "https://play.google.com/store/apps/dev?id=4811777860613965414",
+	  "redirect_url": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": "1",
+      "ad_type": "admob",
+      "backup_ads": "none",
+      "admob_publisher_id": "pub-3251438469471899",
+      "admob_banner_unit_id": "ca-app-pub-3251438469471899/1347068894",
+      "admob_interstitial_unit_id": "ca-app-pub-3251438469471899/5901391575",
+      "admob_native_unit_id": "0",
+      "admob_app_open_ad_unit_id": "ca-app-pub-3251438469471899/1890561582",
+      "ad_manager_banner_unit_id": "0",
+      "ad_manager_interstitial_unit_id": "0",
+      "ad_manager_native_unit_id": "0",
+      "ad_manager_app_open_ad_unit_id": "0",
+      "fan_banner_unit_id": "0",
+      "fan_interstitial_unit_id": "0",
+      "fan_native_unit_id": "0",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "0",
+      "unity_interstitial_placement_id": "0",
+      "applovin_banner_ad_unit_id": "0",
+      "applovin_interstitial_ad_unit_id": "0",
+      "applovin_native_ad_manual_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_placement_name": "0",
+      "ironsource_interstitial_placement_name": "0",
+      "interstitial_ad_interval": 1
+    }
+  ],
+  "socials": [
+    {
+      "social_name": "Website",
+      "social_icon": "https://i.ibb.co/mtBqztD/globe.png",
+      "social_url": "https://rpp.pe/"
+    },
+    {
+      "social_name": "Facebook",
+      "social_icon": "https://i.ibb.co/hfjH7LL/facebook.png",
+      "social_url": "https://www.facebook.com/rppnoticias"
+    },
+    {
+      "social_name": "Twitter",
+      "social_icon": "https://i.ibb.co/dDZYx1P/twitter.png",
+      "social_url": "https://twitter.com/RPPNoticias"
+    },
+    {
+      "social_name": "Instagram",
+      "social_icon": "https://i.ibb.co/82ykbnp/instagram.png",
+      "social_url": "https://www.instagram.com/rppnoticias/"
+    }
+  ]
+}
