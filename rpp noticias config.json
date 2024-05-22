@@ -6,10 +6,10 @@
       "radio_url": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9?aid=5faaeb72f92d7b07dfe10181&pid=lFG5yEtzsWvKBodGDmqohbF4iALCmwOM&sid=IWWVqjcXklHtJM0TCr3F2n7lfXp5rphQ&uid=3UAxsgTBS2MYahhRqlTNRrrXDN7MJsGH&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1653162178035&ot=MfsFpHc3blqIglfDvCY-4w&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Fmdstrm.com%2F",
       "radio_image_url": "https://cdn.webrad.io/images/logos/radios-com-pe/rpp.png",
       "background_image_url": "https://i.pinimg.com/originals/9b/2f/cf/9b2fcfc4838dbcbe8b97e2e038789e6b.gif",
-	  "blur_radio_background": "false",
-      "song_metadata": "false",
+	  "blur_radio_background": "true",
+      "song_metadata": "true",
       "image_album_art": "true",
-      "image_album_art_dynamic_background": "false",
+      "image_album_art_dynamic_background": "true",
 	  "auto_play": "false"
     }
   ],
