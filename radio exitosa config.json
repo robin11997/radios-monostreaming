@@ -10,7 +10,7 @@
       "song_metadata": "false",
       "image_album_art": "true",
 	  "image_album_art_dynamic_background": "false",
-	  "auto_play": "false",
+	  "auto_play": "false"
     }
   ],
   "settings": [
