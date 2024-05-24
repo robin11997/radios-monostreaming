@@ -8,7 +8,7 @@
       "background_image_url": "https://raw.githubusercontent.com/robin11997/fondos-de-radios-monostreaming/main/Ritmo%20Rom%C3%A1ntica%20fondo.gif",
 	  "blur_radio_background": "false",
       "song_metadata": "true",
-      "image_album_art": "false",
+      "image_album_art": "true",
 	  "image_album_art_dynamic_background": "false",
 	  "auto_play": "false"
     }
