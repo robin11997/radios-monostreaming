@@ -9,7 +9,7 @@
 	  "blur_radio_background": "false",
       "song_metadata": "true",
       "image_album_art": "true",
-	  "image_album_art_dynamic_background": "false",
+	  "image_album_art_dynamic_background": "true",
 	  "auto_play": "false"
     }
   ],
