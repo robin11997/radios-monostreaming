@@ -5,9 +5,9 @@
       "radio_genre": "La Voz De Los Que No Tienen Voz",
       "radio_url": "https://stream-144.zeno.fm/csy4vzackf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjc3k0dnphY2tmOXV2IiwiaG9zdCI6InN0cmVhbS0xNDQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhEU3R1dXJwUkhlM2FIZmt3VzFPUGciLCJpYXQiOjE3MTU2NDE1MjYsImV4cCI6MTcxNTY0MTU4Nn0.8npluFuuNcyHY2vT79kuIisl_DaqUdTDWKVBD_MlM0g",
       "radio_image_url": "https://static.mytuner.mobi/media/tvos_radios/tq4NUPk2pm.jpeg",
-      "background_image_url": "https://i.pinimg.com/originals/9b/2f/cf/9b2fcfc4838dbcbe8b97e2e038789e6b.gif",
+      "background_image_url": "https://raw.githubusercontent.com/robin11997/fondos-de-radios-monostreaming-peru/main/fondo%20de%20Radio%20Exitosa.gif",
 	  "blur_radio_background": "false",
-      "song_metadata": "false",
+      "song_metadata": "true",
       "image_album_art": "true",
 	  "image_album_art_dynamic_background": "false",
 	  "auto_play": "false"
