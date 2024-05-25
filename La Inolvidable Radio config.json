@@ -1,11 +1,11 @@
 {
   "radio": [
     {
-      "radio_name": "xxxx",
-      "radio_genre": "xxxx",
-      "radio_url": "xxxx",
-      "radio_image_url": "xxxx",
-      "background_image_url": "xxxx",
+      "radio_name": "La Inolvidable",
+      "radio_genre": "Tu música del recuerdo",
+      "radio_url": "https://27613.live.streamtheworld.com/CRP_LI_SC?csegid=30008&dist=30008",
+      "radio_image_url": "https://static.mytuner.mobi/media/tvos_radios/2b7cvuLrCb.png",
+      "background_image_url": "https://raw.githubusercontent.com/robin11997/fondos-de-radios-monostreaming-peru/main/fondo%20la%20inolvidable.gif",
 	  "blur_radio_background": "false",
       "song_metadata": "true",
       "image_album_art": "true",
@@ -27,10 +27,10 @@
       "ad_type": "admob",
       "backup_ads": "none",
       "admob_publisher_id": "pub-3251438469471899",
-      "admob_banner_unit_id": "xxxx",
-      "admob_interstitial_unit_id": "xxxx",
+      "admob_banner_unit_id": "ca-app-pub-3251438469471899/6258443437",
+      "admob_interstitial_unit_id": "ca-app-pub-3251438469471899/5998588988",
       "admob_native_unit_id": "0",
-      "admob_app_open_ad_unit_id": "xxx",
+      "admob_app_open_ad_unit_id": "ca-app-pub-3251438469471899/5336244001",
       "ad_manager_banner_unit_id": "0",
       "ad_manager_interstitial_unit_id": "0",
       "ad_manager_native_unit_id": "0",
@@ -57,22 +57,22 @@
     {
       "social_name": "Website",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
-      "social_url": "xx"
+      "social_url": "https://www.lainolvidable.pe/"
     },
     {
       "social_name": "Facebook",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/facebook.png",
-      "social_url": "xxx"
+      "social_url": "https://www.facebook.com/RadioLaInolvidable"
     },
     {
       "social_name": "Twitter",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/twitter.png",
-      "social_url": "xxx"
+      "social_url": "https://twitter.com/lainolvidablepe"
     },
     {
       "social_name": "Instagram",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/instagram.png",
-      "social_url": "xxxx"
+      "social_url": "https://www.instagram.com/radiolainolvidablefm/"
     }
   ]
 }
